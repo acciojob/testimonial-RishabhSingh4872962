@@ -5,7 +5,8 @@
 }
 .test{
 	font-size:13px;
-	padding:15px;
+	font-style:sans-serif;
+	padding:12px;
 	border:2px solid #dcdcdc;
 	background-color:white;
 }
